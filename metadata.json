@@ -1,0 +1,6 @@
+{
+  "name": "OranjeStride",
+  "description": "India's premier Generative AI & Data Science training consultancy. From data to decisions. From decisions to outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
